@@ -1,0 +1,11 @@
+calss add
+  {
+    public static void main(String args[])
+      {
+       int a=4 b=8 c;
+       c=a+b;
+       System.out.println("value of a="+a);
+       System.out.println("value of b="+b);
+       System.out.println(sum of a and b="+c);
+      }
+  }   
