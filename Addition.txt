@@ -10,4 +10,4 @@ calss add
        System.out.println(sum of a and b="+c);
        System.out.println(difference of a and b="+d);
       }
-  }         
+  }       
